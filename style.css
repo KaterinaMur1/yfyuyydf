@@ -1,0 +1,33 @@
+h1 {
+    background: red;
+}
+.paragraph-2 {
+    border: 10px solid yellow;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-left: 20px
+}
+
+.paragraph-3 {
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Courier New;
+}
+
+.paragraph-4 {
+    font-size: 24px;
+    text-shadow: green 0 0 2px;
+}
+
+img {
+
+}
+
+background - задает задний фон
+font-size - задает размеры шрифта
+color - задает цвет шрифта
+border - рамка вокруг элемента
+border-radius - закругляют рамку
+font-weight - насколько жирный шрифт(принимает целые числа от 100 до 900)
+font-family - стиль шрифта
